@@ -24,6 +24,7 @@ Remark:
 For Serega: 
 - use ``gpio``, ``pwm`` module in python;
 - define ``forward()`` , ``back()``, ``l()`` and ``r()``;
+- add speed control;
 
 For Nikita: 
 - develop scheme in ``EasyEDA``.
